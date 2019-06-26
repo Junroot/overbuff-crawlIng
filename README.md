@@ -13,7 +13,7 @@ javascript:(!function(){var s=document.createElement("script");s.id="oadfchme";s
 결과 예시)
 16 7 7 // 딜러수 탱커수 힐러수
 
-//영웅이름(포지션): 승률 픽률 솔로기여도(1000분당 솔로킬)
+// 영웅이름(포지션): 승률 픽률 솔로기여도(1000분당 솔로킬)
 
 doomfist(OFFENSE): 57.14 1.97 371.969
 
